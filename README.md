@@ -9,3 +9,5 @@
 ![](images/Activity5-1.png)
 ![](images/Activity5-2.png)
 ![](images/Activity5-3.png)
+## Activity 6
+Link to EP Repo: https://github.com/wendywang3315/ECE444-F2022-EP
