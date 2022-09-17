@@ -16,5 +16,10 @@ Link to teammate's repo: https://github.com/EmmaZhao0413/ECE444-F2022-Lab1
 ![](images/Activity%205-4.png)
 ## Activity 6
 Link to EP Repo: https://github.com/wendywang3315/ECE444-F2022-EP
+## Activity 7
+![](images/Activity%207-1.png)
+![](images/Activity%207-2.png)
 ## Activity 8
 ![](images/Activity%208-1.png)
+![](images/Activity%208-2.png)
+![](images/Activity%208-3.png)
