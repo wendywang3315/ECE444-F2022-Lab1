@@ -5,6 +5,10 @@
 ![](images/Activity2.png)
 ## Activity 3
 ![](images/Activity3.png)
+## Activity 4
+Link to teammate's repo: https://github.com/EmmaZhao0413/ECE444-F2022-Lab1
+![](images/Activity%204-1.png)
+![](images/Activity%204-2.png)
 ## Activity 5
 ![](images/Activity5-1.png)
 ![](images/Activity5-2.png)
